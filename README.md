@@ -11,7 +11,7 @@ The component accepts several props:
 - `classes` (string, optional): Additional CSS classes to be applied to the text container.
 - `styles` (Object, optional): Additional inline styles to be applied to the text container.
 - `numberOfLinesClamp` (number, optional): The maximum number of lines of text to be displayed when the component is not expanded. Default is `3`.
-- `buttonClass` (Object, optional): Additional class to be applied to the "Read More" button.
+- `buttonClass` (string): Additional class to be applied to the "Read More" button.
 
 ## Usage
 

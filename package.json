@@ -1,0 +1,27 @@
+{
+  "name": "@fazalerabbi/react-readmore",
+  "version": "1.0.3",
+  "description": "The ReadMore component is a React functional component that is designed to display a block of text with a \"Read More\" or \"Read Less\" toggle.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "readmore",
+    "react",
+    "functional"
+  ],
+  "author": "Fazal E Rabbi",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.2"
+  }
+}
